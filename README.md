@@ -4,6 +4,6 @@
 
 1.Uninstall Whatsapp
 <br>
-2.update twitter daily your day without whatsapp
+2.Update twitter daily your day without whatsapp
 <br>
-3.use alternative like mail,forum,etc.
+3.Use alternative like mail,forum,etc.
